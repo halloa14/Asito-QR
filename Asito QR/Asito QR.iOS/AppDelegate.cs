@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Asito_QR;
 
 namespace Asito_QR.iOS
 {
